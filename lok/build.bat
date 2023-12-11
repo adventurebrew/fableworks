@@ -1,1 +1,1 @@
-python -m kyraim.texts -g kyra -e .
+python -m kyraim.texts -g kyra . -r
